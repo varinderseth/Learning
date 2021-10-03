@@ -1,0 +1,681 @@
+body{
+    font-family: sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+}
+
+nav{
+  height: 100px;
+width: 100%;    
+  border-bottom: 1px solid #eee;    
+}
+.logo{
+    height: 60px;
+    width: 30%;
+    padding: 20px 50px 20px 50px;
+    float: left;
+}
+.menu{
+    height: 60px;
+    width: 7.5%;
+    padding: 20px 50px 20px 50px;
+    float: right;
+    
+}
+.menu button{
+    height: 50px;
+    width: 90px;
+    font-size: 18px;
+    background-color: black;
+    color: #eee;
+    border: 0;
+    border-radius: 10px;
+}
+.atext{
+    height: 300px;
+    width: 100%;
+    text-align: center;
+    margin-top: 10px; 
+}
+.atext p{
+    padding-right: 40px;
+    padding-left: 40px;
+    font-size: 24px;
+    line-height: 32px;
+    font-weight: 300;
+    color: #5f5d5d;
+}
+.atext button{
+    height: 60px;
+    width: 30%;
+    background-color: black;
+    color: white;
+    font-size: 22px;
+    font-weight: 200;
+    border-radius: 15px;
+    border: 0;
+}
+.basepic{
+    height: 500px;
+    background-image: url(practicegrey15.jpg);
+    margin-top: 100px;
+    border: 0;
+}
+.upperpic{
+    height: 400px;
+    width: 70%;
+    padding-left: 160px;
+   text-align: center;
+}
+.upperpic img{
+    margin-top: -117px;
+    
+}
+.marquediv{
+    height: 50px;
+    width: 100%;
+    
+}
+.marquediv ul{
+    margin: 0;
+    
+}
+.marquediv ul li{
+    display: inline;
+}
+.fullservice1{
+    height: 900px;
+    width: 100%;
+     background-image: url(practicegrey15.jpg);
+    background-size: cover;
+    margin: 0;
+    text-align: center;
+    
+}
+.fullservice1 h3{
+    color: #fff;
+    font-size: 45px;
+    font-weight: 900;
+    text-align: center;
+    margin: 0;
+    
+}
+.b{
+    height: 600px;
+    margin-top: 70px;
+    padding-left: 50px;
+    padding-right: 50px;
+ 
+}
+.b1{
+    width: 49%;
+    height: 600px;
+    float: left;
+    background-image: url(practicegrey10.png);
+    
+}
+.b2{
+    width: 49%;
+    height: 285px;
+    float: left;
+    margin-left: 20px;
+    background-image: url(practicegrey11.png);
+}
+.b3{
+    width: 49%;
+    height: 285px;
+    float: left;
+    margin-left: 20px;
+    margin-top: 30px;
+    background-image: url(practicegrey12.png);
+}
+.fullservice1 button{
+    border: 2px solid #fff;
+    background-color: transparent;
+    height: 45px;
+    width: 130px;
+    color: #fff;
+    font-size: 24px;
+    margin-top: 65px;
+    
+    
+}
+.b11{
+    width: 100%;
+    height: 100%;
+    background-color: #15141491;
+    margin: 0;
+    display: none;
+    color: #fff;
+    text-align: left !important;
+
+}
+.b11 h5{
+    margin: 0;
+    padding-top: 270px;
+    padding-left: 30px;
+    color: #bfbdbde0;
+    font-size: 26px;
+}
+.b11 h4{
+    margin: 0;
+    padding-top: 20px;
+    padding-left: 30px;
+    color: #fff;
+    font-size: 36px;
+}
+.b11 button{
+    margin-left: 30px;
+}
+
+#heading2{
+    padding-top: 20px !important;
+}
+#button2{
+    margin-top: 20px;
+}
+
+.fullservice2{
+    height: 650px;
+    width: 100%;
+    margin: 0;
+    text-align: center;
+}
+.fullservice2 h3{
+    margin-top: 30px;
+    color: #000;
+    font-size: 45px;
+    font-weight: 700;
+    text-align: center;
+}
+.c{
+    height: 480px;
+    width: 100%;
+}
+.c1{
+    height: 100%;
+    width: 33.3%;
+    float: left;
+    background-image: url(practicegrey14.png);
+}
+.c2{
+    height: 100%;
+    width: 33.3%;
+    float: left;
+    background-image: url(practicegrey15.png);
+}
+
+.c11{
+   height: 100%;
+   width: 100%;
+   margin: 0;   
+   background-color: rgba(0, 0, 0, 0.7);
+   text-align: center;
+   color: #fff;
+   display: none;
+}
+.c11 h4{
+    margin-top: 0;
+    padding-top: 50%;
+    font-size: 28px;
+    font-weight: 500;
+}
+.c11 button{
+    border: 1.5px solid #fff;
+    background-color: transparent;
+    height: 45px;
+    width: 130px;
+    color: #fff;
+    font-weight: 100;
+    font-size: 20px;
+}
+.c11 button p{
+    padding: 0;
+    margin: 0;
+}
+
+footer{
+    height: 400px;
+    width: 100%;
+    background-image: url(practicegrey15.jpg);
+}
+.footdiv{
+    height: 200px;
+    width: 100%;
+   
+}
+.d1{
+    height: 100%;
+    width: 25%;
+    float:left; 
+}
+.d12{
+    padding-top: 30px;
+    padding-left: 30px;
+    list-style: none;
+}
+#d11 li {
+    padding-bottom: 30px;
+}
+#d11 li a{
+   font-size: 25px;
+}
+#d11 button{
+    width: 140px;
+    height: 50px;
+    border: 2px solid #fff;
+    color: #fff;
+    font-size: 18px;
+    background-color: transparent;
+}
+.d12 li{
+    padding-bottom: 20px;
+}
+.d12 li a{
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 100;
+    color: #fff;   
+}
+.footdiv2{
+    height: 160px;
+    width: 100%;
+    padding-top: 40px;
+    text-align: center;
+}
+.fa{
+    color: #fff;
+    padding-right: 38px;
+}
+.footdiv2 p{
+    color: #fff;
+    font-size: 20px;
+}
+
+/*-------********* HOVER *********-------*/
+
+#hovy1:hover #b11{
+    display: block;
+}
+#hovy2:hover #b12{
+    display: block;
+}
+#hovy3:hover #b13{
+    display: block;
+}
+
+.fullservice1 button:hover{
+    background-color: black;
+    border: 0;
+}
+.c11 button:hover{
+    background-color: white;
+    border: 0;
+}
+.c11 button:hover #cbutton{
+    color: black;
+   
+}
+#hovy4:hover #c11{
+    display: block;
+}
+#hovy5:hover #c12{
+    display: block;
+}#hovy6:hover #c13{
+    display: block;
+}
+
+/*
+
+---------******* rwd ********-------*/
+
+@media only screen and (max-width:600px){
+    
+    body{
+    font-family: sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+}
+
+nav{
+  height: 100px;
+width: 100%;    
+  border-bottom: 1px solid #eee;    
+}
+.logo{
+    height: 60px;
+    width: 30%;
+    padding: 20px 50px 20px 50px;
+    float: left;
+}
+.menu{
+    height: 60px;
+    width: 7.5%;
+    padding-left: 150px;
+    float: left;
+    
+}
+.menu button{
+    height: 50px;
+    width: 90px;
+    font-size: 18px;
+    background-color: black;
+    color: #eee;
+    border: 0;
+    border-radius: 10px;
+}
+.atext{
+    height: 300px;
+    width: 100%;
+    text-align: center;
+    margin-top: 10px; 
+}
+.atext p{
+    padding-right: 40px;
+    padding-left: 40px;
+    font-size: 24px;
+    line-height: 32px;
+    font-weight: 300;
+    color: #5f5d5d;
+}
+.atext button{
+    height: 50px;
+    width: 30%;
+    background-color: black;
+    color: white;
+    font-size: 16px;
+    font-weight: 200;
+    border-radius: 15px;
+    border: 0;
+}
+.basepic{
+    height: 350px;
+    background-image: url(practicegrey15.jpg);
+    margin-top: 120px;
+    border: 0;
+}
+.upperpic{
+    height: 250px;
+    width: 70%;
+    padding-left: 85px;
+   text-align: center;
+}
+.upperpic img{
+    margin-top: -80px;
+    
+}
+.marquediv{
+    height: 50px;
+    width: 100%;
+    
+}
+.marquediv ul{
+    margin: 0;
+    
+}
+.marquediv ul li{
+    display: inline;
+}
+.fullservice1{
+    height: 1500px;
+    width: 100%;
+     background-image: url(practicegrey15.jpg);
+    background-size: cover;
+    margin: 0;
+    text-align: center;
+    
+}
+.fullservice1 h3{
+    color: #fff;
+    font-size: 45px;
+    font-weight: 900;
+    text-align: center;
+    margin: 0;
+    
+}
+.b{
+    height: 600px;
+    margin-top: 70px;
+    padding-left: 50px;
+    padding-right: 50px;
+ 
+}
+.b1{
+    width: 100%;
+    height: 600px;
+    float: left;
+    background-image: url(practicegrey10.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+    
+}
+.b2{
+    width: 100%;
+    height: 285px;
+    float: left;
+    margin-left: 0;
+    background-image: url(practicegrey11.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 30px;
+}
+.b3{
+    width: 100%;
+    height: 285px;
+    float: left;
+    margin-left: 0;
+    margin-top: 30px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(practicegrey12.png);
+}
+.fullservice1 button{
+    border: 2px solid #fff;
+    background-color: transparent;
+    height: 45px;
+    width: 130px;
+    color: #fff;
+    font-size: 18px;
+    margin-top: 65px;
+    
+    
+}
+.b11{
+    width: 100%;
+    height: 100%;
+    background-color: #15141491;
+    margin: 0;
+    display: none;
+    color: #fff;
+    text-align: center!important;
+
+}
+.b11 h5{
+    margin: 0;
+    padding-top: 270px;
+    padding-left: 20px;
+    color: #bfbdbde0;
+    font-size: 26px;
+}
+.b11 h4{
+    margin: 0;
+    padding-top: 20px;
+    padding-left: 30px;
+    color: #fff;
+    font-size: 36px;
+}
+.b11 button{
+    margin-left: 30px;
+}
+
+#heading2{
+    padding-top: 20px !important;
+}
+#button2{
+    margin-top: 20px;
+}
+
+.fullservice2{
+    height: 2200px;
+    width: 100%;
+    margin: 0;
+    text-align: center;
+}
+.fullservice2 h3{
+    margin-top: 30px;
+    color: #000;
+    font-size: 45px;
+    font-weight: 700;
+    text-align: center;
+}
+.c{
+    height: 650px;
+    width: 100%;
+}
+.c1{
+    height: 100%;
+    width: 100%;
+    float: left;
+    margin-top: 20px;
+    background-image: url(practicegrey14.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.c2{
+    height: 100%;
+    width: 100%;
+    float: left;
+    margin-top: 20px;
+    background-image: url(practicegrey15.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.c11{
+   height: 100%;
+   width: 100%;
+   margin: 0;   
+   background-color: rgba(0, 0, 0, 0.7);
+   text-align: center;
+   color: #fff;
+   display: none;
+}
+.c11 h4{
+    margin-top: 0;
+    padding-top: 50%;
+    font-size: 28px;
+    font-weight: 500;
+}
+.c11 button{
+    border: 1.5px solid #fff;
+    background-color: transparent;
+    height: 45px;
+    width: 130px;
+    color: #fff;
+    font-weight: 100;
+    font-size: 20px;
+}
+.c11 button p{
+    padding: 0;
+    margin: 0;
+}
+
+footer{
+    height: 800px;
+    width: 100%;
+    background-image: url(practicegrey15.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.footdiv{
+    height: 500px;
+    width: 100%;
+   
+}
+.d1{
+    height: 50%;
+    width: 50%;
+    float:left; 
+}
+.d12{
+    padding-top: 30px;
+    padding-left: 30px;
+    list-style: none;
+    margin-top: 0;
+}
+#d11 li {
+    padding-bottom: 30px;
+}
+#d11 li a{
+   font-size: 25px;
+}
+#d11 button{
+    width: 140px;
+    height: 50px;
+    border: 2px solid #fff;
+    color: #fff;
+    font-size: 18px;
+    background-color: transparent;
+}
+.d12 li{
+    padding-bottom: 20px;
+}
+.d12 li a{
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 100;
+    color: #fff;   
+}
+.footdiv2{
+    height: 160px;
+    width: 100%;
+    padding-top: 40px;
+    text-align: center;
+}
+.fa{
+    color: #fff;
+    padding-right: 38px;
+}
+.footdiv2 p{
+    color: #fff;
+    font-size: 20px;
+}
+
+/*-------********* HOVER *********-------*/
+
+#hovy1:hover #b11{
+    display: block;
+}
+#hovy2:hover #b12{
+    display: block;
+}
+#hovy3:hover #b13{
+    display: block;
+}
+
+.fullservice1 button:hover{
+    background-color: black;
+    border: 0;
+}
+.c11 button:hover{
+    background-color: white;
+    border: 0;
+}
+.c11 button:hover #cbutton{
+    color: black;
+   
+}
+#hovy4:hover #c11{
+    display: block;
+}
+#hovy5:hover #c12{
+    display: black;
+}#hovy6:hover #c13{
+    display: block;
+}
+    
+    
+    
+    
+}
